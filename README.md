@@ -1,4 +1,4 @@
-# awesome-free-geographic-real-time-data
+# Awesome Free Geographic Real-Time Data
 
 A list of sources for real-time data that fits a few important criteria for accessibility.
 
