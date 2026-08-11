@@ -64,3 +64,6 @@ Each source should meet these criteria:
 ## Floods
 
 * [Flood Map](https://global-flood.emergency.copernicus.eu/map); Global flood monitoring and forecasts.
+
+
+> Inspired in part by [bytewax/awesome-public-real-time-datasets](https://github.com/bytewax/awesome-public-real-time-datasets), an awesome collection of public real-time data sources. Some entries in this list were discovered there.
